@@ -12,4 +12,6 @@ for i in range(x+1, y+1):
         print ("No War")
         sys.exit()
 
-print("War")        
+print("War")
+
+check=1
