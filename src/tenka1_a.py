@@ -1,3 +1,5 @@
+# Git Author
+
 n, m,l = list(map(int, input().split()))
 
 if (n <= l and l <= m) :
