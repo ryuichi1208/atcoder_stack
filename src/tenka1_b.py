@@ -1,3 +1,5 @@
+# Author ryuichi1208
+
 n = int(input())
 s = input()
 k = int(input())
